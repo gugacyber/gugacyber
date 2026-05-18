@@ -1,6 +1,11 @@
-<h1 align="center">Oi, sou o Gustavo Viana 👋</h1>
+<h1 align="center">Hey, I'm Gustavo Viana 👋</h1>
 <p align="center">
   Software Engineer · Security Researcher · AI Security
+</p>
+<p align="center">
+  <a href="https://gugacyber.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-gugacyber.github.io-3b82f6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="portfolio" />
+  </a>
 </p>
 
 ###
@@ -52,21 +57,21 @@
 
 <br/>
 
-**Engenheiro de Software** focado na interseção entre desenvolvimento e segurança. Construo ferramentas que resolvem problemas reais — desde detecção de phishing até avaliações de infraestrutura governamental.
+**Software Engineer** focused on the intersection of development and security. I build tools that solve real problems — from phishing detection to government infrastructure assessments.
 
-Pesquisador independente com publicações no Zenodo sobre **AI Security** e **Web Security**. Atualmente focado em segurança de LLMs, DevSecOps e sistemas resilientes.
+Independent researcher with publications on Zenodo covering **AI Security** and **Web Security**. Currently focused on LLM security, DevSecOps, and resilient systems.
 
 <br/>
 
-**Áreas de interesse:** Cybersecurity · AI Security · LLM Security · OSINT · Ethical Hacking · DevSecOps · Pentest
+**Areas of interest:** Cybersecurity · AI Security · LLM Security · OSINT · Ethical Hacking · DevSecOps · Pentest
 
 <br/>
 
 ---
 
-### 📄 Publicações Recentes
+### 📄 Recent Publications
 
-- **[ASR Does Not Measure What You Think It Measures](https://zenodo.org/records/20245521)** — Zenodo, Mai 2026
+- **[ASR Does Not Measure What You Think It Measures](https://zenodo.org/records/20245521)** — Zenodo, May 2026
 - **[Secure Prompt Engineering Framework (SPEF)](https://zenodo.org/records/20213674)** — Zenodo, 2026
 - **[Brazilian Municipal Web Portals Security Assessment](https://zenodo.org/records/17536561)** — Zenodo, 2025
 
