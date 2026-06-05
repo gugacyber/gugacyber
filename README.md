@@ -74,3 +74,9 @@ Independent researcher with publications on Zenodo covering **AI Security** and 
 - **[ASR Does Not Measure What You Think It Measures](https://zenodo.org/records/20245521)** — Zenodo, May 2026
 - **[Secure Prompt Engineering Framework (SPEF)](https://zenodo.org/records/20213674)** — Zenodo, 2026
 - **[Brazilian Municipal Web Portals Security Assessment](https://zenodo.org/records/17536561)** — Zenodo, 2025
+
+---
+
+<div align="center">
+  <img src="metrics.svg" alt="GitHub Metrics" />
+</div>
